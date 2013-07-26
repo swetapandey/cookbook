@@ -2,11 +2,8 @@ Ingredients:
 Egg  1
 Oil  1 table spoon
 
-Method:
-1.Heat your pan
-2.Put some oil
-3.Crack the egg
-4.Let it cook for few mins
-5.Flip it and cook for some more time
-6.Turn off the heat and serve on a plate with toast
-
+Heat oil in pan
+Crack the egg
+Let it cook for few mins
+Flip it and cook for some more time
+Turn off the heat and serve on a plate with toast
